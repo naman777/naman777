@@ -8,27 +8,10 @@ I'm a passionate Full Stack Developer with a strong foundation in front-end and 
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Other**: WebRTC, WebSockets, RESTful APIs, Git, Docker, AWS, WebRTC
 
-### 💻 Projects
-- **[Vibely](https://vibely.namankundra.in)**: A collaborative Video Call app with real-time Video Communication.
-- **[ToggleDocs](https://toggledocs.namankundra.in)**: A collaborative document editing tool with real-time WebSocket communication.
-- **[PenSpace](https://penspace.namankundra.in)**: A sleek and intuitive online text editor with Markdown support.
-- **[CodePlex](https://codeplex.namankundra.in)**: A coding platform for practicing and improving programming skills, featuring a remote code execution system.
+[![Naman's github stats](https://github-readme-stats.vercel.app/api?username=naman777&custom_title=Naman's%20Github%20Stats&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 What I'm currently working on
-- Developing a **Video Calling App** using MERN stack and WebRTC, focusing on optimizing the user interface and enhancing real-time communication features.
-- Building a **Cryptic Hunt Game** that challenges players with intriguing puzzles and riddles.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naman777&theme=radical)](https://git.io/streak-stats)
 
-### 🚀 What I'm passionate about
-- Web Development: Creating responsive and user-friendly web applications.
-- Competitive Programming: Solving algorithmic challenges to sharpen problem-solving skills.
-- Learning & Growth: Continuously improving my knowledge in the latest tech trends and best practices.
+[![trophy](https://github-profile-trophy.vercel.app/?username=naman777&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🎯 My Goal
-To leverage my expertise in full stack development to create impactful and innovative solutions that enhance user experiences and drive business success.
-
-### 📫 How to reach me
-- **Portfolio**: [namankundra.in](https://namankundra.in)
-- **LinkedIn**: [linkedin.com/in/namankundra](https://www.linkedin.com/in/namankundra)
-- **Email**: [nkundra_be23@thapar.edu](mailto:nkundra_be23@thapar.edu)
-
-Thanks for stopping by! Let's build something great together! 🚀
+[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=naman777&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
