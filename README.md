@@ -1,4 +1,4 @@
-# Hi there, I'm Naman! 👋
+g # Hi there, I'm Naman! 👋
 
 I'm a passionate Full Stack Developer with a strong foundation in front-end and back-end technologies. I love creating innovative solutions that drive business growth and deliver exceptional user experiences.
 
@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with a strong foundation in front-end and 
 - **Frontend**: React.js, Next.js, HTML5, CSS3, TailwindCSS, JavaScript, TypeScript
 - **Backend**: Node.js, Express.js, Hono.js
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis
-- **Other**: WebRTC, WebSockets, RabitMq, Git, Docker, AWS
+- **Other**: WebRTC, WebSockets, RabitMq, Git, Docker, AWS, GCP
 
 [![Naman's github stats](https://github-readme-stats.vercel.app/api?username=naman777&custom_title=Naman's%20Github%20Stats&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
