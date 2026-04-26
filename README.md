@@ -18,15 +18,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full-Stack Developer and AI Builder** from Karnal, India, studying Electronics & Computer Engineering at TIET. I've shipped production systems used by real users across AI real estate, social platforms, and legal tech — and I build infrastructure-level projects in Go and C++ for fun.
 
-- 🏢 **Currently:** Full Stack Developer @ [Oracia.ai](https://oracia.ai) (via E-VNTS) — building AI-powered real estate features
-- 🏆 **SIH 2024 Finalist** — selected from 49,000+ teams nationwide
-- 💡 **ACM Technical Executive** — led Hacklipse 4.0, a national hackathon with 500+ participants
-- 🧠 **250+ DSA problems** solved | LeetCode Rating: **1686**
-- 📍 Open to **internships, full-time roles, and collaboration**
+- **Currently:** Full Stack Developer @ [Oracia.ai](https://oracia.ai) (via E-VNTS) — building AI-powered real estate features
+- **SIH 2024 Finalist** — selected from 49,000+ teams nationwide
+- **ACM Technical Executive** — led Hacklipse 4.0, a national hackathon with 500+ participants
+- **250+ DSA problems** solved | LeetCode Rating: **1686**
+- Open to **internships, full-time roles, and collaboration**
 
 ---
 
@@ -107,8 +107,6 @@ Relevant: Data Structures · OS · Computer Networks · OOP · System Design
 |--|------------|---------|
 | 🥇 | **SIH 2024 Finalist** | Selected among **1,300 teams** from **49,000+ participants** nationwide |
 | 🎓 | **Merit-Based Scholarship** | Recognized for top academic performance — **Branch Merit List at TIET** |
-| 🏟️ | **Hacklipse 4.0 Lead** | National hackathon · **500+ participants** · ₹2 Lakh prize pool |
-| 💡 | **AI/ML Problem Setter** | Authored 5 problem statements · **95% positive feedback** from participants |
 
 
 
