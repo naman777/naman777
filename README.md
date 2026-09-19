@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer and AI Builder** from Karnal, India, studying Electronics & Computer Engineering at TIET. I've shipped production systems used by real users across AI real estate, social platforms, and legal tech — and I build infrastructure-level projects in Go and C++ for fun.
+I'm a **Full-Stack Developer and AI Builder** from India, studying Electronics & Computer Engineering at TIET. I've shipped production systems used by real users across AI real estate, social platforms, and legal tech — and I build infrastructure-level projects in Go and C++ for fun.
 
 - **Currently:** Full Stack Developer @ [Oracia.ai](https://oracia.ai) (via E-VNTS) — building AI-powered real estate features
 - **SIH 2024 Finalist** — selected from 49,000+ teams nationwide
