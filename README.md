@@ -148,24 +148,6 @@ An epoll TCP/HTTP load balancer in C++17 with no external libraries. Four algori
 </tr>
 </table>
 
-<table>
-<tr>
-<td valign="top">
-
-<sub><code>ML FROM SCRATCH · OBSERVABILITY</code></sub>
-
-### LogLens
-
-A log-intelligence model, trained from scratch, that runs on a laptop CPU. It flags the incident window and returns the handful of lines that explain it, with zero LLM API calls.
-
-**140×** fewer tokens for an on-call agent to read · **0.954** BGL anomaly F1 · **37.5 MB** int8 ONNX model
-
-<sub>PyTorch · Transformers · ONNX Runtime · FastAPI</sub> · [Code](https://github.com/naman777/loglens)
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## `02` More projects
